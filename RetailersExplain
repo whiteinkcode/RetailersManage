@@ -1,0 +1,12 @@
+Retailers电商网站代码说明 
+
+Admin后台
+语言 : Java
+框架 : Spring Boot
+数据库 : Mysql
+缓存 : redis
+
+Show前端
+VUE
+ES6
+
